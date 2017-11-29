@@ -9,6 +9,22 @@ If you find anything useful - it's yours
 
 - [PoisonTap](https://github.com/samyk/poisontap)
 
+### Modern Web
+
+
+
+#### Crypto - scanners
+
+##### TLS
+- [SSLLabs CLI](https://github.com/ssllabs/ssllabs-scan/)
+
+###### Certificate Transparency
+- [Cert Search](https://crt.sh/)
+- [Cert Spotter](https://github.com/SSLMate/certspotter)
+
+##### CSP
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
+
 ### Mail
 
 - [Sender Score](https://www.senderscore.org/)
@@ -34,3 +50,8 @@ If you find anything useful - it's yours
 
 ### Misc
 - [OpenEnergyMonitor](https://openenergymonitor.org/)
+
+
+## Mobile / Android
+
+- [EFIDroid](http://efidroid.org/) - open UEFI Android bootloader + [msm8996 bug](https://github.com/efidroid/projectmanagement/issues/89)
