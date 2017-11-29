@@ -16,9 +16,11 @@ If you find anything useful - it's yours
 #### SPF
 - [SPF Explained](https://blog.returnpath.com/how-to-explain-spf-in-plain-english/)
 - [SPF Creation](https://blog.returnpath.com/protecting-your-brand-from-phishing-how-to-create-your-spf-record/)
+
 #### DKIM
 - [DKIM Explained](https://blog.returnpath.com/how-to-explain-dkim-in-plain-english-2/)
 - [DKIM Creation](https://blog.returnpath.com/protecting-your-brand-from-phishing-how-to-create-a-dkim-record/)
+
 #### DMARC
 - [DMARC Explained](https://blog.returnpath.com/how-to-explain-dmarc-in-plain-english/)
 - [DMARC Creation](https://blog.returnpath.com/build-your-dmarc-record-in-15-minutes-v2/)
