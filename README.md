@@ -43,6 +43,18 @@ If you find anything useful - it's yours
 
 ## Home Automation
 
+### LED Strips
+
+#### Addresable LED Strips
+- [FastLED GitHub](https://github.com/FastLED/FastLED) + [FastLED Webpage](http://fastled.io/) - framework for LED operations
+- nice comparation of [LED Chipsets/Drivers](https://github.com/FastLED/FastLED/wiki/Overview) 
+
+#### Music controlled LED
+- MC [LED in jar](http://natural-nerd.com/music-reactive-light/)
+- [Effect Lib](https://github.com/scottlawsonbc/audio-reactive-led-strip) + [Project Assembly](https://github.com/xNNism/rpi_led_visualizer)
+
+
+
 ### TRV's
 
 - [OpenTRV](https://github.com/opentrv)
