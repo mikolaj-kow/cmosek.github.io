@@ -43,7 +43,18 @@ If you find anything useful - it's yours
 
 ## Home Automation
 
+### Sonoff
+- [Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Sonoff firmware with MQTT and OTA
+- [ESPurna](https://bitbucket.org/xoseperez/espurna) - ESP8266 firmware
+- [Sonoff SC Hack](http://tinkerman.cat/itead-studio-sonoff-sc-revisited/)
+- [Sonoff TH10/16 Mod](http://tinkerman.cat/sonoff-th10-th16-sensors-displays-actuators/) - GPIO4/14
+- [Sonoff POW])http://tinkerman.cat/the-sonoff-pow/) + Sensor [HLW8012](http://tinkerman.cat/hlw8012-ic-new-sonoff-pow/)
+
 ### LED Strips
+
+#### Lightbulb
+- [Sonoff B1](http://tinkerman.cat/sonoff-b1-lights-and-shades/)
+- [AiLight](http://tinkerman.cat/ailight-hackable-rgbw-light-bulb/)
 
 #### Addresable LED Strips
 - [FastLED GitHub](https://github.com/FastLED/FastLED) + [FastLED Webpage](http://fastled.io/) - framework for LED operations
