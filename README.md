@@ -53,15 +53,22 @@ If you find anything useful - it's yours
 - MC [LED in jar](http://natural-nerd.com/music-reactive-light/)
 - [Effect Lib](https://github.com/scottlawsonbc/audio-reactive-led-strip) + [Project Assembly](https://github.com/xNNism/rpi_led_visualizer)
 
-
+#### Ambilight LED
+- [Hyperion Tutorial](https://hyperion-project.org/threads/raspberry-pi-3-mediacenter-hyperion-ambilight-no-soldering.77/)
+- [Video Grabber](http://raspberry-at-home.com/video-grabber-for-raspberry-pi/)s comparision 
+- [LightBerry](http://lightberry.eu/) - commercial
 
 ### TRV's
 
 - [OpenTRV](https://github.com/opentrv)
 - [DYI TRV](http://www.instructables.com/id/Smart-Radiator-Valve-With-Home-Assistant/)
 
+### Sensors
+- [HX711](https://github.com/bogde/HX711) - Weight Sensor
+
 ### Misc
 - [OpenEnergyMonitor](https://openenergymonitor.org/)
+- [Noduino](https://sbstjn.com/noduino/) - JavaScript and Node.js Framework for accessing basic Arduino controls from Web Applications
 
 
 ## Mobile / Android
