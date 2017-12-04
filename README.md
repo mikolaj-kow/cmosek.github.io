@@ -48,7 +48,7 @@ If you find anything useful - it's yours
 - [ESPurna](https://bitbucket.org/xoseperez/espurna) - ESP8266 firmware
 - [Sonoff SC Hack](http://tinkerman.cat/itead-studio-sonoff-sc-revisited/)
 - [Sonoff TH10/16 Mod](http://tinkerman.cat/sonoff-th10-th16-sensors-displays-actuators/) - GPIO4/14
-- [Sonoff POW])http://tinkerman.cat/the-sonoff-pow/) + Sensor [HLW8012](http://tinkerman.cat/hlw8012-ic-new-sonoff-pow/)
+- [Sonoff POW](http://tinkerman.cat/the-sonoff-pow/) + Sensor [HLW8012](http://tinkerman.cat/hlw8012-ic-new-sonoff-pow/)
 
 ### LED Strips
 
@@ -67,6 +67,7 @@ If you find anything useful - it's yours
 #### Ambilight LED
 - [Hyperion Tutorial](https://hyperion-project.org/threads/raspberry-pi-3-mediacenter-hyperion-ambilight-no-soldering.77/)
 - [Video Grabber](http://raspberry-at-home.com/video-grabber-for-raspberry-pi/)s comparision 
+- [STK1160 vs UTV007](https://hyperion-project.org/threads/comparison-fushicai-utv007-vs-stk1160.194/)
 - [LightBerry](http://lightberry.eu/) - commercial
 
 ### TRV's
