@@ -54,6 +54,7 @@ If you find anything useful - it's yours
 - [Sonoff POW](http://tinkerman.cat/the-sonoff-pow/) + Sensor [HLW8012](http://tinkerman.cat/hlw8012-ic-new-sonoff-pow/)
 
 ### MGMT software
+- [MongooseOS](https://mongoose-os.com/) - an OS + SDK for IoT
 - [Blynk](https://www.blynk.cc/) mobile app + [local server](http://docs.blynk.cc/#blynk-server)
 - [Huginn](https://github.com/huginn/huginn) ITFFT opensource alternative (rule-based automation engine)
 - [Trigger Happy](https://github.com/foxmask/django-th)
