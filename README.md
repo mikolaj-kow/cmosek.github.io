@@ -41,6 +41,9 @@ If you find anything useful - it's yours
 - [DMARC Explained](https://blog.returnpath.com/how-to-explain-dmarc-in-plain-english/)
 - [DMARC Creation](https://blog.returnpath.com/build-your-dmarc-record-in-15-minutes-v2/)
 
+### DDoS
+- [BlackArch](https://blackarch.org/dos.html) various tools
+
 ## Home Automation
 
 ### Sonoff
