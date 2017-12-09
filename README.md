@@ -53,6 +53,11 @@ If you find anything useful - it's yours
 - [Sonoff TH10/16 Mod](http://tinkerman.cat/sonoff-th10-th16-sensors-displays-actuators/) - GPIO4/14
 - [Sonoff POW](http://tinkerman.cat/the-sonoff-pow/) + Sensor [HLW8012](http://tinkerman.cat/hlw8012-ic-new-sonoff-pow/)
 
+### MGMT software
+- [Blynk](https://www.blynk.cc/) mobile app + [local server](http://docs.blynk.cc/#blynk-server)
+- [Huginn](https://github.com/huginn/huginn) ITFFT opensource alternative (rule-based automation engine)
+- [Trigger Happy](https://github.com/foxmask/django-th)
+
 ### LED Strips
 
 #### Lightbulb
@@ -84,7 +89,7 @@ If you find anything useful - it's yours
 ### Misc
 - [OpenEnergyMonitor](https://openenergymonitor.org/)
 - [Noduino](https://sbstjn.com/noduino/) - JavaScript and Node.js Framework for accessing basic Arduino controls from Web Applications
-
+- Sleep as Android [Tasker plugin](https://sleep.urbandroid.org/documentation/tutorials/tasker/), [API](https://sleep.urbandroid.org/documentation/developer-api/intents-and-content-providers/)+[Intents2MQTT](https://play.google.com/store/apps/details?id=pixento.nl.broadcasttomqtt), [IFTTT plugin](https://sleep.urbandroid.org/documentation/integration/ifttt/)
 
 ## Mobile / Android
 
