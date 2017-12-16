@@ -86,7 +86,7 @@ If you find anything useful - it's yours
 
 ### Air quality monitoring
 - Sensors [Overview and comparision](http://aqicn.org/sensor/)
-- [PPD42] Sensor + [teardown](http://takingspace.org/wp-content/uploads/ShinyeiPPD42NS_Deconstruction_TracyAllen.pdf) 
+- PPD42 Sensor + [teardown](http://takingspace.org/wp-content/uploads/ShinyeiPPD42NS_Deconstruction_TracyAllen.pdf) 
 - Sensors [comparision](http://www.takingspace.org/make-your-own-aircasting-particle-monitor/)
 - [Making Sense](https://github.com/waagsociety/making-sensor/raw/master/sensor_kit/doc/Sensor_Kit_doc.pdf) - 
 - [DustDuino](http://dustduino.org/)
@@ -95,10 +95,11 @@ If you find anything useful - it's yours
 - [PPD42NS implementation](http://www.howmuchsnow.com/arduino/airquality/grovedust/)
 - [SEN0177](https://www.dfrobot.com/wiki/index.php/PM2.5_laser_dust_sensor_SKU:SEN0177)
 - [PMS5003](https://ourairquality.org/index.php/build-an-air-quality-monitor/) build
+- [Paper](http://aqicn.org/aqicn/doc/a-low-cost-instrument-for-environmental-particulate-analysis-based-on-optical-scattering.pdf), [paper2](https://www.atmos-meas-tech-discuss.net/amt-2015-331/amt-2015-331.pdf), [paper3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569398/)
 
 ### Sensors
 - [HX711](https://github.com/bogde/HX711) - Weight Sensor
-- 
+- [Hygrometer](http://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html) comparision
 
 ### Misc
 - [OpenEnergyMonitor](https://openenergymonitor.org/)
