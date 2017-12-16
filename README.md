@@ -84,8 +84,21 @@ If you find anything useful - it's yours
 - [OpenTRV](https://github.com/opentrv)
 - [DYI TRV](http://www.instructables.com/id/Smart-Radiator-Valve-With-Home-Assistant/)
 
+### Air quality monitoring
+- Sensors [Overview and comparision](http://aqicn.org/sensor/)
+- [PPD42] Sensor + [teardown](http://takingspace.org/wp-content/uploads/ShinyeiPPD42NS_Deconstruction_TracyAllen.pdf) 
+- Sensors [comparision](http://www.takingspace.org/make-your-own-aircasting-particle-monitor/)
+- [Making Sense](https://github.com/waagsociety/making-sensor/raw/master/sensor_kit/doc/Sensor_Kit_doc.pdf) - 
+- [DustDuino](http://dustduino.org/)
+- [Sharp GP2Y1010AU0F implementation](http://www.howmuchsnow.com/arduino/airquality/)
+- [GP2 Test](http://www.ti.com/lit/ug/tidub65c/tidub65c.pdf) by Texas Instruments
+- [PPD42NS implementation](http://www.howmuchsnow.com/arduino/airquality/grovedust/)
+- [SEN0177](https://www.dfrobot.com/wiki/index.php/PM2.5_laser_dust_sensor_SKU:SEN0177)
+- [PMS5003](https://ourairquality.org/index.php/build-an-air-quality-monitor/) build
+
 ### Sensors
 - [HX711](https://github.com/bogde/HX711) - Weight Sensor
+- 
 
 ### Misc
 - [OpenEnergyMonitor](https://openenergymonitor.org/)
