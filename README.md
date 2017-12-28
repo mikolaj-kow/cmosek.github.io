@@ -83,8 +83,12 @@ If you find anything useful - it's yours
 
 - [OpenTRV](https://github.com/opentrv)
 - [DYI TRV](http://www.instructables.com/id/Smart-Radiator-Valve-With-Home-Assistant/)
+- [Xavax/HT100BT/Comet](http://torsten-traenkner.de/wissen/smarthome/heizung.php) research
+- [OpenHR20](https://github.com/OpenHR20/OpenHR20) lib
+- [EQ3-BT](https://github.com/rytilahti/python-eq3bt) lib and cli intrface
 
 ### Air quality monitoring
+- [Overview](http://vair-monitor.com/2017/01/19/measuring-dust-levels-measure-part-23/), sensors segment's and tech
 - Sensors [Overview and comparision](http://aqicn.org/sensor/)
 - PPD42 Sensor + [teardown](http://takingspace.org/wp-content/uploads/ShinyeiPPD42NS_Deconstruction_TracyAllen.pdf) 
 - Sensors [comparision](http://www.takingspace.org/make-your-own-aircasting-particle-monitor/)
@@ -96,6 +100,9 @@ If you find anything useful - it's yours
 - [SEN0177](https://www.dfrobot.com/wiki/index.php/PM2.5_laser_dust_sensor_SKU:SEN0177)
 - [PMS5003](https://ourairquality.org/index.php/build-an-air-quality-monitor/) build
 - [Paper](http://aqicn.org/aqicn/doc/a-low-cost-instrument-for-environmental-particulate-analysis-based-on-optical-scattering.pdf), [paper2](https://www.atmos-meas-tech-discuss.net/amt-2015-331/amt-2015-331.pdf), [paper3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569398/)
+- [vThings](http://vair-monitor.com/2017/01/06/vthings-co2-and-dust-monitor-v3/) internal build
+
+- polish http://nettemp.pl/forum/viewtopic.php?f=19&t=569
 
 ### Sensors
 - [HX711](https://github.com/bogde/HX711) - Weight Sensor
