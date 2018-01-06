@@ -101,6 +101,13 @@ If you find anything useful - it's yours
 - [PMS5003](https://ourairquality.org/index.php/build-an-air-quality-monitor/) build
 - [Paper](http://aqicn.org/aqicn/doc/a-low-cost-instrument-for-environmental-particulate-analysis-based-on-optical-scattering.pdf), [paper2](https://www.atmos-meas-tech-discuss.net/amt-2015-331/amt-2015-331.pdf), [paper3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569398/)
 - [vThings](http://vair-monitor.com/2017/01/06/vthings-co2-and-dust-monitor-v3/) internal build
+- [AQ-SPEC](http://www.aqmd.gov/aq-spec/evaluations/summary) sensors evaluation
+- [Bachelor Thesis](https://cdn.hackaday.io/files/21912937483008/Thomas_Portable_Air_Quality.pdf) on Air Quality Monitoring
+- [explanation](https://www.thebeijinger.com/blog/2016/01/02/which-iaq-monitor-should-i-buy) why you should calibrate sensors
+
+#### Polish stuff
+- [Kraków](http://www.krakow-zdroj.pl/) - amatorska stacja SDS011 i PMS1003 - z numeryczną korekcją wilgoci metodą [regresji nieliniowej](https://www.facebook.com/KrakowZdroj/posts/1551991205093317) 
+- [Niepołomnice](http://www.powietrze.info/about.html) - amatorska stacja - SDS021 i PMS7003
 
 - polish http://nettemp.pl/forum/viewtopic.php?f=19&t=569
 
