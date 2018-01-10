@@ -36,5 +36,8 @@
 - [DMARC Explained](https://blog.returnpath.com/how-to-explain-dmarc-in-plain-english/)
 - [DMARC Creation](https://blog.returnpath.com/build-your-dmarc-record-in-15-minutes-v2/)
 
+#### DANE
+
+- [DANE](https://www.huque.com/dane/) resources - specs, record generators
 ### DDoS
 - [BlackArch](https://blackarch.org/dos.html) various tools
