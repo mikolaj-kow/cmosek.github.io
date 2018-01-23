@@ -70,6 +70,14 @@ If you find anything useful - it's yours
 
 - polish http://nettemp.pl/forum/viewtopic.php?f=19&t=569
 
+### Bluetooth 5
+
+#### Boards
+- Texas Instruments [CC2640R2F](http://www.ti.com/product/cc2640r2f)
+- Texas Instruments [CC2650STK](http://www.ti.com/tool/cc2650stk)
+- Nordic [nRF52832](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52832) - midrange od nRF52 family
+
+
 ### Sensors
 - [HX711](https://github.com/bogde/HX711) - Weight Sensor
 - [Hygrometer](http://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html) comparision
