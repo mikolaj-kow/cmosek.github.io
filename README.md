@@ -87,6 +87,13 @@ If you find anything useful - it's yours
 - [Noduino](https://sbstjn.com/noduino/) - JavaScript and Node.js Framework for accessing basic Arduino controls from Web Applications
 - Sleep as Android [Tasker plugin](https://sleep.urbandroid.org/documentation/tutorials/tasker/), [API](https://sleep.urbandroid.org/documentation/developer-api/intents-and-content-providers/)+[Intents2MQTT](https://play.google.com/store/apps/details?id=pixento.nl.broadcasttomqtt), [IFTTT plugin](https://sleep.urbandroid.org/documentation/integration/ifttt/)
 
+## Surveillance / Monitoring
+
+### Systems 
+- [ZoneMinder](https://zoneminder.com/)
+
+### Cameras
+- Xiaomi Dafang [Custom Firmware](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
 ## Mobile / Android
 
 - [EFIDroid](http://efidroid.org/) - open UEFI Android bootloader + [msm8996 bug](https://github.com/efidroid/projectmanagement/issues/89)
