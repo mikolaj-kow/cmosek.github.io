@@ -64,6 +64,12 @@ If you find anything useful - it's yours
 - [Bachelor Thesis](https://cdn.hackaday.io/files/21912937483008/Thomas_Portable_Air_Quality.pdf) on Air Quality Monitoring
 - [explanation](https://www.thebeijinger.com/blog/2016/01/02/which-iaq-monitor-should-i-buy) why you should calibrate sensors
 
+### No neutral line hell
+Switch will cut the power and smart device can not work. Dimmers are most likely based on triacs or IGBT. Small current is for powering the device, but it can make CFL flicker. WIfi is not possible (too much current) 
+- Adding the neutral wire
+- Cheap solutions: [Xiaomi Aquara](https://files.xiaomi-mi.com/files/aqara/aqara-EN.pdf) (ZigBee based)
+- Expensive: Lutron Caseta, [Aotec Nano Dimmer](https://aeotec.com/z-wave-light-dimmer-switch), [others](https://wiki.winkathome.net/Category:No_Neutral)
+
 #### Polish stuff
 - [Kraków](http://www.krakow-zdroj.pl/) - amatorska stacja SDS011 i PMS1003 - z numeryczną korekcją wilgoci metodą [regresji nieliniowej](https://www.facebook.com/KrakowZdroj/posts/1551991205093317) 
 - [Niepołomnice](http://www.powietrze.info/about.html) - amatorska stacja - SDS021 i PMS7003
