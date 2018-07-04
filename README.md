@@ -69,6 +69,7 @@ Switch will cut the power and smart device can not work. Dimmers are most likely
 - Adding the neutral wire
 - Cheap solutions: [Xiaomi Aquara](https://files.xiaomi-mi.com/files/aqara/aqara-EN.pdf) (ZigBee based)
 - Expensive: Lutron Caseta, [Aotec Nano Dimmer](https://aeotec.com/z-wave-light-dimmer-switch), [others](https://wiki.winkathome.net/Category:No_Neutral)
+- DIY: one sonoff Touch as a sensor, other sonoff as a actuator. [example](https://github.com/davidmpye/Sonoff-Ceiling-Lighting), [video](https://www.youtube.com/watch?v=Jdbi2T3IIQg)
 
 #### Polish stuff
 - [Kraków](http://www.krakow-zdroj.pl/) - amatorska stacja SDS011 i PMS1003 - z numeryczną korekcją wilgoci metodą [regresji nieliniowej](https://www.facebook.com/KrakowZdroj/posts/1551991205093317) 
