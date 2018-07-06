@@ -64,6 +64,13 @@ If you find anything useful - it's yours
 - [Bachelor Thesis](https://cdn.hackaday.io/files/21912937483008/Thomas_Portable_Air_Quality.pdf) on Air Quality Monitoring
 - [explanation](https://www.thebeijinger.com/blog/2016/01/02/which-iaq-monitor-should-i-buy) why you should calibrate sensors
 
+
+#### Polish stuff
+- [Kraków](http://www.krakow-zdroj.pl/) - amatorska stacja SDS011 i PMS1003 - z numeryczną korekcją wilgoci metodą [regresji nieliniowej](https://www.facebook.com/KrakowZdroj/posts/1551991205093317) 
+- [Niepołomnice](http://www.powietrze.info/about.html) - amatorska stacja - SDS021 i PMS7003
+
+- polish http://nettemp.pl/forum/viewtopic.php?f=19&t=569
+
 ### No neutral line hell
 Switch will cut the power and smart device can not work. Dimmers are most likely based on triacs or IGBT. Small current is for powering the device, but it can make CFL flicker. WIfi is not possible (too much current) 
 - Adding the neutral wire
@@ -71,11 +78,8 @@ Switch will cut the power and smart device can not work. Dimmers are most likely
 - Expensive: Lutron Caseta, [Aotec Nano Dimmer](https://aeotec.com/z-wave-light-dimmer-switch), [others](https://wiki.winkathome.net/Category:No_Neutral)
 - DIY: one sonoff Touch as a sensor, other sonoff as a actuator. [example](https://github.com/davidmpye/Sonoff-Ceiling-Lighting), [video](https://www.youtube.com/watch?v=Jdbi2T3IIQg)
 
-#### Polish stuff
-- [Kraków](http://www.krakow-zdroj.pl/) - amatorska stacja SDS011 i PMS1003 - z numeryczną korekcją wilgoci metodą [regresji nieliniowej](https://www.facebook.com/KrakowZdroj/posts/1551991205093317) 
-- [Niepołomnice](http://www.powietrze.info/about.html) - amatorska stacja - SDS021 i PMS7003
-
-- polish http://nettemp.pl/forum/viewtopic.php?f=19&t=569
+### Vacuum 
+- Xiaomi Vacuum [reverse engineering](https://github.com/dgiese/dustcloud), [rooting instructions](https://github.com/dgiese/dustcloud/wiki/VacuumRobots-manual-update-root-Howto), and even [running without Xiaomi Cloud](https://github.com/dgiese/dustcloud/wiki/Xiaomi-Vacuum-setup-without-Xiaomi-Cloud) + [great talk](https://www.youtube.com/watch?v=uhyM-bhzFsI&feature=youtu.be) about it
 
 ### Bluetooth 5
 
