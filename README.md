@@ -107,6 +107,7 @@ Switch will cut the power and smart device can not work. Dimmers are most likely
 
 ### Systems 
 - [ZoneMinder](https://zoneminder.com/)
+- [Shinobi](https://moeiscool.github.io/Shinobi/) - but poor HASS integration
 
 ### Cameras
 - Xiaomi Dafang [Custom Firmware](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
