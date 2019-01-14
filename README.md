@@ -39,12 +39,17 @@ If you find anything useful - it's yours
 - [LightBerry](http://lightberry.eu/) - commercial
 
 ### TRV's
-
 - [OpenTRV](https://github.com/opentrv)
 - [DYI TRV](http://www.instructables.com/id/Smart-Radiator-Valve-With-Home-Assistant/)
 - [Xavax/HT100BT/Comet](http://torsten-traenkner.de/wissen/smarthome/heizung.php) research
 - [OpenHR20](https://github.com/OpenHR20/OpenHR20) lib
-- [EQ3-BT](https://github.com/rytilahti/python-eq3bt) lib and cli intrface
+
+#### eQ-3 BT
+- [EQ3-BT](https://github.com/rytilahti/python-eq3bt) lib and cli intrface used by HASS
+- [Home Assistant component](https://www.home-assistant.io/components/climate.eq3btsmart/)
+- [BT2MQTT gateway](https://github.com/zewelor/bt-mqtt-gateway/wiki/Home-Assistant#eq3-bluetooth-smart-thermostat) for eq3
+- [Protocol documentation](https://github.com/Heckie75/eQ-3-radiator-thermostat/blob/master/eq-3-radiator-thermostat-api.md) and Expect implementation
+- [Nodejs](https://github.com/maxnowack/node-eq3ble) implementation
 
 ### Air quality monitoring
 - [Overview](http://vair-monitor.com/2017/01/19/measuring-dust-levels-measure-part-23/), sensors segment's and tech
