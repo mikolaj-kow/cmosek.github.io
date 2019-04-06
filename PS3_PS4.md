@@ -22,5 +22,9 @@
 ### Exploit hosting
 - [self-hosted](https://github.com/Al-Azif/ps4-exploit-host)
 
+### Remote install
+- [node.js and cURL](https://www.psx-place.com/resources/remote-pkg-installer.731/)
+- PKG Linker 1.0 [resources](https://www.psx-place.com/resources/ps4-pkg-linker.730/), [forum](https://www.psx-place.com/threads/ps4-pkg-linker.21301/), [github](https://github.com/pink1stools/PS4_PKG_Linker)
+
 ### Misc
 - [PS4 Emulator](https://github.com/AlexAltea/orbital)
