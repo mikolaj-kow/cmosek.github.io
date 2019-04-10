@@ -21,10 +21,12 @@
 
 ### Exploit hosting
 - [self-hosted](https://github.com/Al-Azif/ps4-exploit-host)
+- [github hosted](https://github.com/zecoxao/zecoxao.github.io)
 
 ### Remote install
-- [node.js and cURL](https://www.psx-place.com/resources/remote-pkg-installer.731/)
-- PKG Linker 1.0 [resources](https://www.psx-place.com/resources/ps4-pkg-linker.730/), [forum](https://www.psx-place.com/threads/ps4-pkg-linker.21301/), [github](https://github.com/pink1stools/PS4_PKG_Linker)
+- [backend](https://www.psx-place.com/resources/remote-pkg-installer.731/) - important
+- PKG Linker 1.0 in .NET [resources](https://www.psx-place.com/resources/ps4-pkg-linker.730/), [forum](https://www.psx-place.com/threads/ps4-pkg-linker.21301/), [github](https://github.com/pink1stools/PS4_PKG_Linker)
+- node.js and electron [frontend](https://github.com/iref-use/ps4-remote-pkg-sender)
 
 ### Misc
 - [PS4 Emulator](https://github.com/AlexAltea/orbital)
