@@ -24,6 +24,10 @@ If you find anything useful - it's yours
 - [Sonoff B1](http://tinkerman.cat/sonoff-b1-lights-and-shades/)
 - [AiLight](http://tinkerman.cat/ailight-hackable-rgbw-light-bulb/)
 
+##### Elgato Avea LED Bulb
+- [nodejs POC](https://github.com/Marmelatze/avea_bulb) and [fork](https://github.com/Alblahm/avea_node)
+- [python](https://github.com/k0rventen/avea)
+
 #### Addresable LED Strips
 - [FastLED GitHub](https://github.com/FastLED/FastLED) + [FastLED Webpage](http://fastled.io/) - framework for LED operations
 - nice comparation of [LED Chipsets/Drivers](https://github.com/FastLED/FastLED/wiki/Overview) 
