@@ -93,6 +93,10 @@ Switch will cut the power and smart device can not work. Dimmers are most likely
 ### Blinds
 - [DIY/3D print](https://github.com/marecl/motor-on-roller-blind-ws) project
 
+### Curtains
+- Dooya DT-82/KT-82 - motor + track
+- Xiaomi Aquara Curtain Motor
+
 ### Bluetooth 5
 
 #### Boards
