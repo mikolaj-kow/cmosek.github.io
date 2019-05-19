@@ -90,6 +90,9 @@ Switch will cut the power and smart device can not work. Dimmers are most likely
 ### Vacuum 
 - Xiaomi Vacuum [reverse engineering](https://github.com/dgiese/dustcloud), [rooting instructions](https://github.com/dgiese/dustcloud/wiki/VacuumRobots-manual-update-root-Howto), and even [running without Xiaomi Cloud](https://github.com/dgiese/dustcloud/wiki/Xiaomi-Vacuum-setup-without-Xiaomi-Cloud) + [great talk](https://www.youtube.com/watch?v=uhyM-bhzFsI&feature=youtu.be) about it
 
+### Blinds
+- [DIY/3D print](https://github.com/marecl/motor-on-roller-blind-ws) project
+
 ### Bluetooth 5
 
 #### Boards
