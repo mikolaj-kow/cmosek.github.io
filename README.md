@@ -42,7 +42,13 @@ If you find anything useful - it's yours
 - [STK1160 vs UTV007](https://hyperion-project.org/threads/comparison-fushicai-utv007-vs-stk1160.194/)
 - [LightBerry](http://lightberry.eu/) - commercial
 
-### TRV's
+### HVAC 
+- [Daikin connectable units](https://www.daikin.pl/pl_pl/product-group/control-systems/daikin-online-controller/connectable-units.html)
+- Gree: [gree-remote](https://github.com/tomikaa87/gree-remote), [gree2mqtt](https://github.com/arthurkrupa/gree-hvac-mqtt-bridge), [hass gree component](https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent)
+- [MySensors HVAC](https://www.home-assistant.io/integrations/climate.mysensors)
+- [others](https://www.home-assistant.io/integrations#climate)
+
+#### TRV's
 - [OpenTRV](https://github.com/opentrv)
 - [DYI TRV](http://www.instructables.com/id/Smart-Radiator-Valve-With-Home-Assistant/)
 - [Xavax/HT100BT/Comet](http://torsten-traenkner.de/wissen/smarthome/heizung.php) research
@@ -54,6 +60,7 @@ If you find anything useful - it's yours
 - [BT2MQTT gateway](https://github.com/zewelor/bt-mqtt-gateway/wiki/Home-Assistant#eq3-bluetooth-smart-thermostat) for eq3
 - [Protocol documentation](https://github.com/Heckie75/eQ-3-radiator-thermostat/blob/master/eq-3-radiator-thermostat-api.md) and Expect implementation
 - [Nodejs](https://github.com/maxnowack/node-eq3ble) implementation
+
 
 ### Air quality monitoring
 - [Overview](http://vair-monitor.com/2017/01/19/measuring-dust-levels-measure-part-23/), sensors segment's and tech
