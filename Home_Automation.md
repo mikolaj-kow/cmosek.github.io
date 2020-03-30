@@ -93,7 +93,8 @@ Switch will cut the power and smart device can not work. Dimmers are most likely
 - Xiaomi Vacuum [reverse engineering](https://github.com/dgiese/dustcloud), [rooting instructions](https://github.com/dgiese/dustcloud/wiki/VacuumRobots-manual-update-root-Howto), and even [running without Xiaomi Cloud](https://github.com/dgiese/dustcloud/wiki/Xiaomi-Vacuum-setup-without-Xiaomi-Cloud) + [great talk](https://www.youtube.com/watch?v=uhyM-bhzFsI&feature=youtu.be) about it
 - [Valetudo](https://github.com/Hypfer/Valetudo) + [map generation](https://github.com/Hypfer/ICantBelieveItsNotValetudo)
 - [Valetudo fork](https://github.com/rand256/valetudo)
-- 
+- [nologs script](https://github.com/MadJoker0815/roborock_nologs) - to help with reboots
+- [retain ssh](https://github.com/Hypfer/Valetudo/issues/206#issuecomment-573427119) after reset 
 
 ### Blinds
 - [DIY/3D print](https://github.com/marecl/motor-on-roller-blind-ws) project
