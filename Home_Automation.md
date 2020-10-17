@@ -38,8 +38,21 @@
 - [LightBerry](http://lightberry.eu/) - commercial
 
 ### HVAC 
+#### Daikin
 - [Daikin connectable units](https://www.daikin.pl/pl_pl/product-group/control-systems/daikin-online-controller/connectable-units.html)
-- Gree: [gree-remote](https://github.com/tomikaa87/gree-remote), [gree2mqtt](https://github.com/arthurkrupa/gree-hvac-mqtt-bridge), [hass gree component](https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent)
+
+#### Gree 
+- [gree-remote](https://github.com/tomikaa87/gree-remote),
+- [gree2mqtt](https://github.com/arthurkrupa/gree-hvac-mqtt-bridge), 
+- [hass gree component](https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent)
+- [GreeAC-DummyServer](https://github.com/emtek-at/GreeAC-DummyServer) that disables China talkback
+
+#### Haier
+- https://github.com/MiguelAngelLV/esphaier
+- https://github.com/bstuff/haier-ac-remote
+- https://github.com/instalator/Haier_WiFi
+
+#### Others
 - [MySensors HVAC](https://www.home-assistant.io/integrations/climate.mysensors)
 - [others](https://www.home-assistant.io/integrations#climate)
 
