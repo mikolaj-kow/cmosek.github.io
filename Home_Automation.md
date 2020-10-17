@@ -52,7 +52,14 @@
 - https://github.com/bstuff/haier-ac-remote
 - https://github.com/instalator/Haier_WiFi
 
+#### Midea (Kaisai), Rotenso (OSK102, OSK103)
+- https://github.com/andersonshatch/midea-ac-py
+
+#### Mitsubishi Electric
+- MELCloud (native)
+
 #### Others
+- [AC Freedom App](https://github.com/liaan/broadlink_ac_mqtt) replacement - Broadlink AC
 - [MySensors HVAC](https://www.home-assistant.io/integrations/climate.mysensors)
 - [others](https://www.home-assistant.io/integrations#climate)
 
