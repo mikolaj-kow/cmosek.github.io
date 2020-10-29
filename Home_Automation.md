@@ -71,6 +71,8 @@
 - [Viessmann ViCare ZK03840](https://www.zigbee2mqtt.io/devices/ZK03840.html)
 - [Siterwell GS361A-H04](https://www.china-siter.com/product/194.html)  GTZ02
 - [MOES HY369RT (TS0601)](https://www.zigbee2mqtt.io/devices/TS0601_thermostat.html) 
+- SEA801
+- [SEA802](https://www.saswell.com/etrv-smart-radiator-thermostat-tuya-zigbee-thermostatic-radiator-valve-sea802_p107.html)
 
 #### eQ-3 BT
 - [EQ3-BT](https://github.com/rytilahti/python-eq3bt) lib and cli intrface used by HASS
