@@ -68,6 +68,9 @@
 - [DYI TRV](http://www.instructables.com/id/Smart-Radiator-Valve-With-Home-Assistant/)
 - [Xavax/HT100BT/Comet](http://torsten-traenkner.de/wissen/smarthome/heizung.php) research
 - [OpenHR20](https://github.com/OpenHR20/OpenHR20) lib
+- [Viessmann ViCare ZK03840](https://www.zigbee2mqtt.io/devices/ZK03840.html)
+- [Siterwell GS361A-H04](https://www.china-siter.com/product/194.html)  GTZ02
+- [MOES HY369RT (TS0601)](https://www.zigbee2mqtt.io/devices/TS0601_thermostat.html) 
 
 #### eQ-3 BT
 - [EQ3-BT](https://github.com/rytilahti/python-eq3bt) lib and cli intrface used by HASS
