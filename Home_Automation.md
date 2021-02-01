@@ -57,6 +57,8 @@
 
 #### Mitsubishi Electric
 - MELCloud (native)
+- https://github.com/SwiCago/HeatPump
+- https://github.com/gysmo38/mitsubishi2MQTT
 
 #### Others
 - [AC Freedom App](https://github.com/liaan/broadlink_ac_mqtt) replacement - Broadlink AC
